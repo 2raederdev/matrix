@@ -1,7 +1,7 @@
 let newImage = document.getElementById('myImage')
 
 function change() {
-    newImage.src = "./images/neo.jpg"
+    newImage.src = "../images/neo.jpg"
 }
 
 // newImage.onclick = change()
